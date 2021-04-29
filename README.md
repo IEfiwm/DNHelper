@@ -1,2 +1,2 @@
-# DotNetHelper [![Build Status](https://travis-ci.org/alexhokl/dotnet-helper.svg?branch=master)](https://travis-ci.org/alexhokl/dotnet-helper)
+# DotNetHelper [![Build Status]]
 .NET Core-ready helpers methods
