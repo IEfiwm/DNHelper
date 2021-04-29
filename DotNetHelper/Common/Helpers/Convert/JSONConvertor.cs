@@ -69,7 +69,7 @@ namespace Convert
         /// <returns></returns>
         public static T ToModel<T>(this string serializedValue)
         {
-            return Deserialize<T>(serializedValue)
+            return Deserialize<T>(serializedValue);
         }
         #endregion
     }
