@@ -1,2 +1,2 @@
-# DotNetHelper [![Build Status]]
+# DotNetHelper
 .NET Core-ready helpers methods
